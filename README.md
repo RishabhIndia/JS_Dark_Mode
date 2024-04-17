@@ -1,1 +1,1 @@
-Hosted Link - https://github.com/RishabhIndia/JS_Dark_Mode.git
+Hosted Link - https://rishabhindia.github.io/JS_Dark_Mode/
